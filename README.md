@@ -3,7 +3,9 @@
 
 Bukan siapa-siapa. hanya cowok gabut yang hobi menatap layar. 😂
 
-![Visitor Count](https://komarev.com/ghpvc/?username=USERNAME_KAMU&color=blue&style=for-the-badge)
+
+---
+![Visitor Count](https://komarev.com/ghpvc/?username=afadholi1&color=blue&style=for-the-badge)
 
 ### Technologies & Tools
 
@@ -13,19 +15,6 @@ Bukan siapa-siapa. hanya cowok gabut yang hobi menatap layar. 😂
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Tech Stack
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind)](https://skillicons.dev)
-
-### My Stack
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="tailwind logo"  />
-</p>
 ---
 
 <p align="left">
