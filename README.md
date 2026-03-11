@@ -1,5 +1,7 @@
 ## Hello World 🌍 I'm Ahmad Fadloli 👋
-### Web Developer 
+### Web Developer | React Enthusiast
+
+Bukan siapa-siapa. hanya cowok gabut yang hobi menatap layar. 😂
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
