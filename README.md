@@ -1,4 +1,4 @@
-# Halo, Saya [Nama Kamu] 👋
+# Halo, Saya Ahmad Fadloli 👋
 ### Web Developer | React Enthusiast
 
 Dunia web bagi saya adalah tempat menggabungkan logika dan estetika. Saya senang membangun antarmuka pengguna yang interaktif dan responsif.
@@ -27,22 +27,11 @@ Berikut adalah teknologi yang biasa saya gunakan untuk membangun proyek:
 Berikut adalah ringkasan aktivitas saya di platform ini:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=[USERNAME_KAMU]&show_icons=true&theme=tokyonight" alt="Statistik GitHub" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME_KAMU]&layout=compact&theme=tokyonight" alt="Bahasa Populer" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=afadholi1&show_icons=true&theme=tokyonight" alt="Statistik GitHub" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afadholi1&layout=compact&theme=tokyonight" alt="Bahasa Populer" height="150" />
 </p>
 
----
 
-## 📫 Mari Terhubung
-- 📧 Email: [Email Kamu]
-- 💼 LinkedIn: [Link LinkedIn Kamu]
-- 🌐 Portfolio: [Link Website Kamu]
-
----
-
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
-</p>
 
 <!--
 **afadholi1/afadholi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
